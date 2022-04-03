@@ -1,4 +1,8 @@
-Programmers
+Hi I'm Jeongyeon ( •̀ ω •́ )✧
+
+You can see me [HERE](https://github.com/jeongyeon-park)
+
+## Programmers
 
 |Date|유형|문제|풀이|
 |----|----|----|----|
